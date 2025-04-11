@@ -108,7 +108,7 @@ body {
   }
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   #shareBtn {
     display: none;
   }
@@ -117,4 +117,4 @@ body {
     width: 80%;
     justify-content: center;
   }
-}
+} */
